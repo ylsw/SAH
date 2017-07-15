@@ -6,7 +6,7 @@ import javax.swing.plaf.synth.SynthScrollBarUI;
 public class Week_1 {
 
 	public static void main(String[] args) {
-		int[] arry = {5,87,956,75,84,32,65,74,95};
+		int[] arry = {5,87,956,75,84,3,65,74,95};
 		selectSort(arry);
 		printArry(arry);
 		System.out.println("请输入一个整数");
